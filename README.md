@@ -44,7 +44,7 @@ Installation
 Clone the repository:
 
 bash
-git clone https://github.com/Abd-Elghany/virtual-disk-os.git
+[git clone https://github.com/Abd-Elghany/virtual-disk-os.git](https://github.com/Abd-Elghany/Virtual-Disk-Operating-System-.git)
 cd virtual-disk-os
 Build the project:
 
